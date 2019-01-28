@@ -7,7 +7,6 @@ build/
 *.perspectivev3
 *.pbxuser
 *.xcworkspace
-xcuserdata
  
 .svn
 CVS
